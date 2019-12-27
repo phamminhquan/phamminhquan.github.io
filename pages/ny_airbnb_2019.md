@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # New York Airbnb 2019 Visualization Tool 
 [Repo](https://github.com/phamminhquan/newyork_airbnb_2019)
 
