@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: default
 ---
+
+# New York Airbnb 2019 Visualization Tool
 
 ## Repo
  
