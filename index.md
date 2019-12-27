@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Quan Pham's Personal Page
-
 ## About me
 
 Fill this in
