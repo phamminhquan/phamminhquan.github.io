@@ -2,8 +2,9 @@
 layout: post
 ---
 
-# New York Airbnb 2019 Visualization Tool 
-[Repo](https://github.com/phamminhquan/newyork_airbnb_2019)
+## Repo
+ 
+[Github](https://github.com/phamminhquan/newyork_airbnb_2019)
 
 ## Description
 
