@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# New York Airbnb 2019 Visualization Tool
+## New York Airbnb 2019 Visualization Tool
 
-## Repo
+### Repo
  
 [Github](https://github.com/phamminhquan/newyork_airbnb_2019)
 
-## Description
+### Description
 
 With data taken from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data), I made a Jupyter Lab (or Jupyter Notebook) visualization tool. The tool takes in filter values such as:
 
@@ -20,20 +20,20 @@ With data taken from [Kaggle](https://www.kaggle.com/dgomonov/new-york-city-airb
 
 The map API will display a map zooming into the area specified and mark all the Airbnb listings that satisfies all the filter requirements.
 
-## Dependencies
+### Dependencies
 
 * ipyleaflet
 * ipywidgets
 * IPython.display
 * csv
 
-## Usage
+### Usage
 
 * Run all `ny_airbnb.ipynb`
 * Select filter requirements from widgets
 * Click `Update` button
 
-## Example
+### Example
 Here is an example of what the tool looks like:
 
 ![](./example.png)
@@ -42,5 +42,5 @@ Here is an example of how to select filter requirements:
 
 ![](./example.gif)
 
-## TODO
+### TODO
 Implement some ML algorithm (maybe regression) to predict Airbnb price for next year
