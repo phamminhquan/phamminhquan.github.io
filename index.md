@@ -4,7 +4,13 @@ layout: default
 
 ## About me
 
-Fill this in
+Hello There !!!
+
+I'm currently a graduate student at University of Florida, majoring in Electrical Engineering. I focus mainly on signal processing and communication systems. I like to code in Python, specifically involving digital signal processing and data analysis. My current goal is to learn as much as possible about software-defined radios, specifically how to use them for communication networks applications.
+
+I've been a teaching assistant more than 2 years. When teaching, I try to aspire understanding.
+
+Right now, I'm trying to learn to construct a communication network from software-defined radio in C++. So be on the look out for that on my [Github](https://github.com/phamminhquan).
 
 ## Projects
 
