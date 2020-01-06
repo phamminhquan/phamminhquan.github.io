@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 ---
 
 ## Realtime Spectrogram of microphone audio signal
