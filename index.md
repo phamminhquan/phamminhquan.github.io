@@ -4,13 +4,19 @@ layout: default
 
 ## About me
 
-Hello There !!!
+Hello there,
 
 I'm currently a graduate student at University of Florida, majoring in Electrical Engineering. I focus mainly on signal processing and communication systems. I like to code in Python, specifically involving digital signal processing and data analysis. My current goal is to learn as much as possible about software-defined radios, specifically how to use them for communication networks applications.
 
-I've been a teaching assistant more than 2 years. When teaching, I try to aspire understanding.
+I'm currently interning for Analog Devices Inc. as a Digital Design Engineering Intern. My job is to model Crest Factor Reduction (CFR) stage in next gen transceiver using MATLAB.
 
-Right now, I'm trying to learn to construct a communication network from software-defined radio in C++. So be on the look out for that on my [Github](https://github.com/phamminhquan).
+For my recent research, I also worked with Network Simulator 3 (NS-3) to simulate various network topologies, implement various traffic, and gather timing data.
+
+I've been a teaching assistant more than 2 years, for courses involving signal processing, probability theory, and communication theory. When teaching, I try to inspire understanding.
+
+I often browse [Kaggle](kaggle.com), looking for interesting datasets to analyze, maybe construct visualization tools, maybe implement simple machine learning.
+
+Sometimes my work, research, or teaching inspire me to create various engineering tools, hopefully support fellow engineers around the world. 
 
 ## Projects
 
