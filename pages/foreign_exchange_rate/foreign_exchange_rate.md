@@ -23,4 +23,4 @@ Here is an example of what the plot looks like:
 ![](./example.gif)
 
 ## TODO
-Fix x-axis
+Fix x-axis (DONE)
