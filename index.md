@@ -22,6 +22,7 @@ Sometimes my work, research, or teaching inspire me to create various engineerin
 
 My personal projects are on [Github](https://github.com/phamminhquan). Here are the recent ones:
 
+* [Communication Networks Simulation with NS-3](./pages/ns3/ns3.md)
 * [Foreign Exchange Rate 2009-2019](./pages/foreign_exchange_rate/foreign_exchange_rate.md)
 * [COVID19 Confirmed Cases with Polynomial Fitting](./pages/covid19/covid19.md)
 * [New York Airbnb 2019 Visualization Tool](./pages/ny_airbnb_2019/ny_airbnb_2019.md)

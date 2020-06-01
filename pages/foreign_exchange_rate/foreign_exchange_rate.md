@@ -1,6 +1,6 @@
 # Plot of Foreign Currency Exchange Rates with respect to USD (2000-2019)
 
-# Repository
+## Repository
 [Github](https://github.com/phamminhquan/foreign_exchange_rate)
 
 ## Description
